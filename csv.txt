@@ -1,0 +1,9 @@
+Ich sehe die Datei als große Tabelle
+
+Die Erste Zeile gibt die Kritieren an für die nachfolgenden Zeilen
+
+Vielleicht zum Verständnis
+
+sensor_id | sensor_type | location | lat | lon | timestamp         | pressure | altitude| pressure_sealevel | temperature | humidity
+----------------------------------------------------------------------------------------------------------------------------
+42069     | BME280      | 27736    |50.76|13.71|2021-04-26T00:00:29| 93384.00 | 0       | 0                 | -6.04       | 100.00
